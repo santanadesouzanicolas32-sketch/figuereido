@@ -3,7 +3,7 @@
 <p align="center">Landing page de serviço de motoboy em São Paulo</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/figuereido/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/figueiredo-express/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -30,8 +30,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/figuereido.git
-cd figuereido
+git clone https://github.com/santanadesouzanicolas32-sketch/figueiredo-express.git
+cd figueiredo-express
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
